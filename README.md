@@ -1,3 +1,5 @@
+# Interfacing-LCD-Using-8051
+
 ## Aim:
 To interface a 16x2 LCD with an 8051 microcontroller and display your name.
 
@@ -34,10 +36,9 @@ while(1)
 	}	
 }
 ```
+
 ## Output :
-<img width="1236" height="716" alt="image" src="https://github.com/user-attachments/assets/0b46ac84-ba09-4455-993f-59211610a174" />
-
-
+<img width="1916" height="1109" alt="image" src="https://github.com/user-attachments/assets/c4d482d3-6c18-42a1-9a72-f1119aa182c6" />
 
 
 ## Result :  
